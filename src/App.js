@@ -27,10 +27,7 @@ function App() {
             <Link to="/">
               <h1>Pokedex Lite</h1>
             </Link>
-            <div className="">
-             
-              
-              
+              <div className="searchBy">
               <Link to="/pokedex/full">
                 <p>Pokedex by Gopal</p>
               </Link>
